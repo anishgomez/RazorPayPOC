@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorPayPOC", "RazorPay\RazorPayPOC.csproj", "{B844C44F-2D57-4316-AD21-B99782606EDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B844C44F-2D57-4316-AD21-B99782606EDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B844C44F-2D57-4316-AD21-B99782606EDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B844C44F-2D57-4316-AD21-B99782606EDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B844C44F-2D57-4316-AD21-B99782606EDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8D232AD-C539-4787-82A7-6B1AB7354E0A}
+	EndGlobalSection
+EndGlobal
